@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/app.ts",
   "scripts": {
+    "build": "tsc",
     "lint": "eslint '*/**/*.{js,ts}' --quiet --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
